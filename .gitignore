@@ -1,0 +1,11 @@
+venv
+.vscode
+dataset
+dataset-multi
+CNN.py
+CNNModelBuilderOld.py
+CNNMulti.py
+CNNOld.py
+Links.rst
+makefile
+
